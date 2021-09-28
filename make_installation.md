@@ -1,3 +1,8 @@
+Author: Ryan Munaki 
+-------------------------
+Neptune code: VE16U5
+--------------------
+
 
 Installation of the make command
 ================================
@@ -18,9 +23,7 @@ This file contains instructions describing the installation process of the softw
   - [installing r-base:](#installing-r-base)
   - [installing wordcloud:](#installing-wordcloud)
   - [excuting the make command:](#excuting-the-make-command)
-  - [Author: Ryan Munaki](#author-ryan-munaki)
-  - [Neptune code: VE16U5](#neptune-code-ve16u5)
-
+  
 
 
 # Packages required:
@@ -36,7 +39,7 @@ This file contains instructions describing the installation process of the softw
    
 # Steps
 
- create a new eniv
+ create a new environment
 
         * conda create --name  webtech curl=7.78.0 httpie=2.1.0
         * conda activate webtech
@@ -83,7 +86,3 @@ Or
 
 
 
-Author: Ryan Munaki 
--------------------------
-Neptune code: VE16U5
---------------------
